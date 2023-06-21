@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bridj-0.7.0">
+    <CLASSES>
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/bridj-0.7.0.jar!/" />
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/slf4j-api-2.0.7.jar!/" />
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/webcam-capture-0.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/slf4j-api-2.0.7.jar!/" />
+      <root url="jar://D:/MASTER/JAVA Concurrent et  réseau/CameraClient/lib/log4j-1.2.17.jar!/" />
+    </excluded>
+  </library>
+</component>
